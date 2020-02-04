@@ -20,8 +20,5 @@ int main()
 		printf("El elemento %d de la serie es el: %d \n",b,a);
 		b=b+1;
 	}
-	
-	puts("Tremenda rama");
-	
 getch();
 }
