@@ -35,6 +35,7 @@ int main()
           sino=getch();
        }
    }
-   puts("\nFin del programa");
+
+   puts("Tremendo final bro\n");
    getch();
 }
