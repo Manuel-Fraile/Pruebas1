@@ -36,6 +36,6 @@ int main()
        }
    }
 
-   puts("Tremendo final bro\n");
+   puts("Final del programa\n");
    getch();
 }
