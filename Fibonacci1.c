@@ -36,6 +36,8 @@ int main()
        }
    }
 
+   d=21;
+   printf("\nLa d vale %d\n",d);
    puts("Final del programa\n");
    getch();
 }
